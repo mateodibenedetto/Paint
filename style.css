@@ -1,0 +1,35 @@
+body, div {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #ededed;
+}
+
+canvas {
+    border: none;
+}
+
+.editor {
+    margin: auto;
+    background: #ffff;
+    width: fit-content;
+    margin-top: 50px;
+    border: 2px solid #000;
+}
+
+.editor div{
+    background: rgb(112, 107, 107);
+}
+
+#lw{
+    width: 420px;
+    height: 20px;
+}
+
+#color {
+    margin: 8px;
+    width: 50px;
+    height: 30px;
+}
